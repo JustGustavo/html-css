@@ -1,0 +1,55 @@
+Aula 1 e 2
+
+Vamos aprender sobe listas, <ol> lista ordenada , e a <ul> lista nao ordenada, <li> é o que define os itens dentro da lista (list item)
+
+a <ol> é usada para como o nome ja diz fazer uma lista com ordem de 1 até o numero de itens da lista por exemplo 1 a 10, podemos também muder o tipo de numeraçao para numeros romanos ou letras usando o parametro type="" dentro da tag <ol> 
+(types da <ol> 1 a A I i)
+
+a <ul> e usada para com o nome ja diz fazer uma lista sem ordem, apenas uma lista de itens como por exemplo uma lista de compra, onde nao temos ordem certa para comprar cada coisa, ele é numero por pontos circulos ou quadrados podendo ser mudado entre eles também usando o parametro type
+(types da <ul> circle, square, disc)
+
+Nota --> alem do type temos o parametro start="" que usamos para decidir em que posiçao numero a lista vai começar, podendo por exemplo começar a partir do numero 5 ou a partir da letra E e etc
+
+Também podemos mesclar listas, podendo usar <ul> dentro de <ol> e vice versa
+
+ex
+lista de jogos favoritos usando lista mescladas e o parametro type
+<ol>
+    <li>NES</li>
+    <ul type="square">
+        <li>Mario Bros</li>
+        <ul type="circle">
+            <li>Mario bross 3</li>
+            <li>Mario Lost Levels</li>
+        </ul>
+        <li>Ninja Gaiden</li>
+    </ul>
+    <li>SNES</li>
+    <ul type="square">
+        <li>Mario</li>
+        <li>Donkey Kong</li>
+    </ul>
+    <li>PlayStation</li>
+    <ul type="square">
+        <li>Final Fantasy</li>
+        <li>Castlevania</li>
+    </ul>
+</ol>
+
+Existe um ultimo tipo de lista que é menos usada mas nao deixa de ser importante que é a lista de definiçao <dl> que vem a companhada do <dd> que é um termo exemplo HTML
+e temos o <dt> que é a definiçao do termo dentro da <dd>
+
+ex de <dl>	
+<dl>
+    <dt>HTML</dt>
+    <dd>Linguagem de maracaçao para a criaçao do conteudo de um site </dd>
+    
+    <dt>CSS</dt>
+    <dd>Linguage de marcaçao para a criaçao do design do site</dd>
+    
+    <dt>JavaScript</dt>
+    <dd>Linguage de programaçao para criaçao de interatividade de um site</dd>
+    
+</dl>
+
+

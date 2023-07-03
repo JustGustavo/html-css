@@ -1,0 +1,19 @@
+WWW = world wide web -> sub red da iternet onde funcionam os sites baseados em HTTP
+HTTP = HYPER TEXT TRANSFER PROTOCOL
+HTML = HYPER TEXT MARKUP LANGUAGE
+HYPERTEXT = Textos sensiveis/interativos que te levam a outros textos ou imagines etc
+CSS = Folhas De estilo em cascata
+/................................................................................./
+NCP = Network control protrocol - primeiro protocolo de comunicaçao da internet
+TCP/IP = Protocolo de comunicaçao da internet usado ate hoje, baseado em endereços
+DNS = 'Agenda eletronica' da internet onde fica hospedados os dominios de nome dos sites
+/................................................................................./
+ONDA QUADRADA = Onda que o computador entende 
+ONDA SENOIDAL = Onda que a TV e Telefone e outros aparelhos entedem
+Modem = dispositivo que transforma onda senoidal em quadrada e vice versa permitindo a comunicaçao do computador com a iternet, 
+Modulaçao e Demodolaçao = proceso de mudança das ondas entre senoidal e quadrada 
+/................................................................................./
+DOMINIO = Nome que se da a um site ex: Instagram.com <-- dominio do instagram
+HOSPEDAGEM = Onde seu site fica guardado/hospedado
+TLDs = Top level domain é o que vem no fim da URL ex .com e pode existir os GTLDs que sao os genericos ex: .gov e os CCTLDs que sao referentes aos paises ex: .br
+URL = Uniform resource locator /localizador de recurso unico <-- referente ao um endereço que leva a um lugar especifico , a URL é composta por Dominio, sub-dominio TLDs e caminho, OBS: Algumas podem nao ter caminho ou subdominio 

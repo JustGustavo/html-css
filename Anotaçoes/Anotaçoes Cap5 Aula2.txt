@@ -1,0 +1,21 @@
+&lt; <-- adiciona o sinal de maior que sem criar uma tag  
+&gt; <-- adiciona o sinal de menor que sem criar uma tag
+&#x <-- comando para adicionar um emoji no codigo ex:&#x1F913; o comando tem que ser acompanhado do codigo do emoji e ponto e virgula no fim dele
+emoji pedia <-- site para pega codigo dos emojis
+<!-- --> <-- adicionar comentario dentro do codigo
+/................................................................................../
+Adicionando simbolos
+® Marca registrada &reg;
+© Copyright &copy;
+™ Trade Mark &trade;
+€ Euro &euro;
+£ Libra (pound) &pound;
+¥ Yen &yen;
+¢ Cent &cent;
+∅ Vazio &empty;
+∑ Soma &sum;
+Δ Delta &Delta;
+← Seta esquerda &larr;
+↑ Seta acima &uarr;
+→ Seta direita &rarr;
+↓ Seta baixo &darr;

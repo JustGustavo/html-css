@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(28, 27, 27);
+}
+h1 {
+    color: white;
+    text-align: center;
+    
+}
+p {
+    color: white;
+    text-align: center;
+    
+}
+.video {
+    text-align: center;
+}
+.capa {
+    text-align: center;
+}
+.botao-voltar {
+    text-align: center; 
+
+}

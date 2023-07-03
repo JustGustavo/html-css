@@ -1,0 +1,23 @@
+<h1> a <h6> <-- Tags de titulo do conteudo com hierarquia
+<p> <-- tag de paragrafo
+<hr> <-- tag de linha horizontal
+<br> <-- tag de quebra de linha
+<strong> <-- tag de colocar a frase em negrito
+<em> <-- tag para colocar em italico
+<small> <-- texto pequeno (pode se tornar obsoleto)
+<del> <-- adiciona texto deletado, que deve ser lido mas nao considerado
+<ins> <-- adicionado texto inserido para dar enfase
+<sup> <-- texto sobrescrito , usado para colocar por ex o 2 elevado
+<sub> <-- texto subscrito , usado para colocar por ex o 2 abaixo de H2O
+<code> <-- fonte monoespaçada para melhor visualizzaçao de uma area desejada do conteudo por exemplo um codigo
+<pre> <-- tudo dentro dessa tag ira respeitar os espaços dentro do codigo posiçao do conteudo e tudo relacionado a isso
+<q> <-- tag de citaçao simples
+<blockquote> uma citaçao mais detalhada, como a de um autor
+<abbr> <-- tag de abreviaçao
+<bdo> <-- texto invertido
+<ol> <-- tag para criar uma lista ordenada
+<ul> <-- tag para criar uma lista NAO ordenada
+<li> <-- tag de item para lista (item list)
+<dl> <-- lista de definiçao
+<dt> <-- termo dentro da  <dl>
+<dd> <-- definiçao do termo dentro da dl

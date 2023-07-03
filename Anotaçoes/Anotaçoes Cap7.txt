@@ -1,0 +1,1 @@
+As tagas de titulo vao do nivel 1 (h1) ate nivel 6 (h6) e cada um tem seu proposito, sua hierarquia e nao simplesmente para deixar o testo maior ou menos

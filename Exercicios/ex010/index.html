@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhando com links</title>
+</head>
+<body>
+    <h1>Usando links externos</h1>
+    <p>voce pode acessar meu <a href="https://gustavoguanabara.github.io" target="_blank" rel="external">repositorio publico no GitHub</a></p>
+    <p>Voce também pode acessar o meu <a href="https://youtube.com/cursoemvideo" target="_blank" rel="external">canal gratuito no youtube</a></p>
+    <!-- target="_blank" rel="external" <-- parametros que irao fazer que um link que leve para fora do nosso site nao o sobreponha e sim abra em uma nova aba-->
+    <h1>Usando links internos</h2>
+    <p>Está é a primeira pagina do site. Se voce quiser pode a cessar também a minha <a href="pag002.html" target="_self" rel="next">Segunda pagina</a></p>
+    <!--Esta é uma maneira de adicioanr links internos ao nosso site, ou seja links que levaram a outras partes do nosso proprio site-->
+    
+    <!--para funcionar dessa forma como no exemplo sem ter que digitar a url do link e apenas o nome do arquivo eles tem que estar na mesma pagina-->
+    <p>Voce também pode acessar nossa <a href="noticias/pag003.html" rel="next" target="_self">Pagina de noticias</a></p>
+    <!--Usamos o _self dentro do parametro target para indiciar que o link é interno e levara para outro parte do nosso site e nao para um link interno entao ele deve abrir na mesma aba e nao em uma nova, ou podemos simplesmente nao colocar o parametro target""-->
+
+    <h1>Links para download</h1>
+    <ul>
+        <li><a href="livro/meulivro.pdf" download="meulivro.pdf" type="application.pdf">Baixar livro em pdf</a></li>
+        <li><a href="livro/meulivro.rar" download="meulivro.rar" type="application.zip">Baixa livro em zip</a></li>
+    </ul>
+     <!--Alguns navegadores baixam direto apenas com o link do arquivo ancorado, como no noss exemplo ele esta na pasta livros-->
+        <!--Porém iremos precisar usar os parametros download dentro da tag e o parametro type acompanhado do tipo do type-->
+</body>
+</html>
+
+

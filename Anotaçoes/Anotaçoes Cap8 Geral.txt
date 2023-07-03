@@ -1,0 +1,11 @@
+Aula 1
+Aula de semantica , tomar cuidado com tags obsoletas que nao sao mais usadas, voce consegue ver no google pesquisando por "tags obsoletas" no site oficial da W3C. O foco do HTML é em semantica e nao em forma, por isso muitas tagas cairam em desuso ou substituidas
+
+Aula 2
+outras formataçoes em html, aqui temos algumas outras formas de formatar o conteudo do nosso codigo de acordo como queremos como por exemplo:
+
+Colocar uma palavra em negrito
+Podendo-se usar a tag <b> (nao semantica) ou a tag <Strong> (semantica)
+
+Nota: Se esquecer de colocar algo entre tags no seu codigo, basta selecionar a are do conteudo que vc queira colocar por exemplo dentro da tag <i> (nao semantico) de italico, basta selecionar a parte deseijada e apertar ctrl + shift + p, e selecionar  a opçao "Wrap with abbreviation / Envelope com abreviatura" e digitar a tag desejada no caso i
+(Explicado no Cap 8 aula 2 minuto 5:30)

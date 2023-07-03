@@ -1,0 +1,57 @@
+A linguagem HTML é uma linguagem focada em conteudo, ou seja, todo conteudo de um site e feito em HTML. Tudo que for focado em conteudo é HTML
+/................................................................................./
+A CSS é responsavel por todo o estilo do site, ou seja o CSS é focada no design de um site. 
+/.........................................................................................................................................................................................................................................../
+Java Script é voltado as interaçoes do site, como menus interativos , animaçoes , popups , validaçoes, etc.
+/.........................................................................................................................................................................................................................................../
+estilo em css
+<> <-- colchete angula 
+tags = <h1> <-- abertura de tag, sinal de maior e menor acompanhado da tag no centro ex: <h1> abertura de tag de titulo. </h1> <-- fechamento de tag, sinal de maior e menor acompanhado de um barra e a tag no centro ex: </h1> fechamento de tag de titulo
+/.........................................................................................................................................................................................................................................../
+
+
+h1 {} <-- seletor: onde ira ficar nossas declaraçoes que iram modificar nossa tag h1
+declaraçoes <-- sao os comandos que irao ficar no seletor 
+
+ex:
+
+h1 {
+	font-family: Arial; 	
+	font-size: 20pt;
+	color: blue;
+
+   }
+font-family: Arial; <-- declaraçao
+color <-- Propriedade
+blue <-- valor
+
+OBS: É obrigatorio que toda declaraçao em css termine com pont e virgula (;)
+/.........................................................................................................................................................................................................................................../
+Estrutura basica de um documento HTML
+
+1<!DOCTYPE html>
+2<html lang="pt-br">
+	3<head>
+		5<meta charset="UTF-8">
+		6<meta name="viewport"
+		content="width=device-width,
+		initiak-scale=1.0">
+		7<title>Document</title>
+	</head>	
+	4<body>
+		8<h1>Olá Mundo</h1>
+
+
+	</body>
+
+</html> 
+
+1 - Define que o tipo do documento é HTML
+2 - Estamos abrindo a tag html e definindo sua linguagem para portugues brasileiro
+3 - head é onde ira ficar as configuraçoes da html
+4 - body é onde fica o corpo do site ou seja seu conteudo exemplo 8
+5 - define o site vai ser compativel com caracteres de UTF8 
+6 - defini que o site vai ser visto com sua escala em 100% nao vai abrir com zoom out nem zoom in
+7 - titulo do site
+8 - tag de Titulo dentro do conteudo do site
+/.........................................................................................................................................................................................................................................../

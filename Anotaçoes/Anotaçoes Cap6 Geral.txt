@@ -1,0 +1,41 @@
+CAP 6 AULA 1:
+tomar cuidado com o copyright das imagens usadas no projetos, alguns sites que disponibilizam a maioria das imagens com licensa de uso gratuita, o Pexels e o Unsplash
+obs: Existem mais exemplos de site no material em PDF
+Usaremos o GIMP para editar as imagens que iram para o projeto
+/................................................................................../
+CAP 6 AULA 2 a 4
+Aprendemos que:
+Devemos ter cuidado com o uso de imagens, prestar atençao no direitos autorais, extensao da imagem jpg/png etc, tomar cuidado com a dimensao da imagem e o tamanho do arquivo, usamos o gimp para dimensionar a imagem do tamanho que queremos , arquivos de imagens mais leves faram com que o site funcione melhor
+
+iremos agora adicionar imagens ao projeto usando a tag <img src="" alt"">
+ctrl + espaço <-- atalho parar para abrir a lista de arquivos e adicionar a imagem com mais facilidade ao projeto (mais facil de entender fazendo)
+
+a 3 formas que aprendemos de usar a tag img para carregar uma imagem
+
+com a imagem direto na pasta usando o exemplo da imagem logocss.png
+
+<img src="logocss.png" alt"Logo CSS3"> <-- o comando fica assim, pois a imagem esta direto na pasta do index
+/................................................................................../
+com a imagem vindo de uma subpasta
+
+<img src="imagens/logocss.png" alt"Logo CSS3"> <-- a imagem esta sendo carregada do diretorio imagens 
+
+Com a imagem sendo carregada direto da internet, ou seja externamente
+/................................................................................../
+<img src="Link da imagem" alt"Logo JavaScript"> <-- a imagem esta sendo carregada diretamente do google imagens atraves do seu link de imagen 
+
+(ex de link: https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png)
+/................................................................................../
+CAP 6 Aula 5
+Agora vamos aprender sovre favcons (favorite icons) que sao as miniaturas de imagem que aparece ao lado do nome do site, como por exemplo o simbolo do google, do youtube, instagram e etc
+
+iremos usar arquivos com a extensao .ico para fazer essa aula
+podemos achar logos no site iconarchive.com	
+
+podemos desenhas nosso proprio logo no site favicon.cc / ou criar com o site favicon.io
+
+a forma de adicionarmos um favcon é igual a que adicionamos uma imagem, porem ela tera que ter a extensao correta, e devera usar essa linha de comando
+
+ <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> <-- o nome, link, ou diretorio do favicon vai aqui --> href="favicon.ico"
+
+nota: chegamos nesse comando apartir do uso do link:favicon
